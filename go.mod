@@ -225,7 +225,7 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.3-0.20220303224323-02efb9a75ee1
+	github.com/opencontainers/image-spec v1.1.0
 	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/opencontainers/runtime-spec v1.0.3-0.20220311020903-6969a0a09ab1 // indirect
 	github.com/opencontainers/runtime-tools v0.0.0-20190417131837-cd1349b7c47e // indirect
